@@ -1,1 +1,1 @@
- The job description of each script 
+0x02. Shell, I/O Redirections and filters
